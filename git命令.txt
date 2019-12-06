@@ -1,0 +1,10 @@
+git init 
+git status
+git add                       添加到暂存区
+git rm --cached <file>        从暂存区回收文件
+git commit   <file>            提交至版本库中
+git commit   <file>   -m ""    标记提交
+git config --global user.name
+git config --global user.email
+git log                        查看当前用户的提交日志
+ ssh-keygen -t rsa -c "1214098913@qq.com"
